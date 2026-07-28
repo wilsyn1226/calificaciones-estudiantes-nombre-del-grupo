@@ -26,4 +26,5 @@ Instrucciones de Compilación y Ejecución
    ```bash
    g++ -o programa main.cpp
 
-[Logica De Programacion 04.pdf](https://github.com/user-attachments/files/30441165/Logica.De.Programacion.04.pdf)
+[Logica De Programacion 04.pdf](https://github.com/user-attachments/files/30441178/Logica.De.Programacion.04.pdf)
+
